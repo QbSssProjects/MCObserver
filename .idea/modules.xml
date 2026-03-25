@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/debugger.iml" filepath="$PROJECT_DIR$/debugger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adapters/debugger.adapters.iml" filepath="$PROJECT_DIR$/.idea/modules/adapters/debugger.adapters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/agent/debugger.agent.iml" filepath="$PROJECT_DIR$/.idea/modules/agent/debugger.agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend/debugger.backend.iml" filepath="$PROJECT_DIR$/.idea/modules/backend/debugger.backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client-runtime/debugger.client-runtime.iml" filepath="$PROJECT_DIR$/.idea/modules/client-runtime/debugger.client-runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/debugger.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/debugger.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/frontend/debugger.frontend.iml" filepath="$PROJECT_DIR$/.idea/modules/frontend/debugger.frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/debugger.main.iml" filepath="$PROJECT_DIR$/.idea/modules/debugger.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-runtime/debugger.server-runtime.iml" filepath="$PROJECT_DIR$/.idea/modules/server-runtime/debugger.server-runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/debugger.test.iml" filepath="$PROJECT_DIR$/.idea/modules/debugger.test.iml" />
+    </modules>
+  </component>
+</project>
